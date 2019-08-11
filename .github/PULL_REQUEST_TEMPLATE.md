@@ -17,7 +17,7 @@ Additionally, if **adding a new cask**:
 - [ ] Checked the cask is submitted to [the correct repo].
 
 [token reference]: https://github.com/Homebrew/homebrew-cask/blob/master/doc/cask_language_reference/token_reference.md
-[open pull requests]: https://github.com/Homebrew/homebrew-cask-eid/pulls
-[already refused]: https://github.com/Homebrew/homebrew-cask-eid/search?q=is%3Aclosed&type=Issues
+[open pull requests]: https://github.com/jerr0328/homebrew-cask-eid/pulls
+[already refused]: https://github.com/jerr0328/homebrew-cask-eid/search?q=is%3Aclosed&type=Issues
 [the correct repo]: https://github.com/Homebrew/homebrew-cask/blob/master/doc/development/adding_a_cask.md#finding-a-home-for-your-cask
 [version-checksum]: https://github.com/Homebrew/homebrew-cask/blob/master/doc/cask_language_reference/stanzas/sha256.md#updating-the-sha256
